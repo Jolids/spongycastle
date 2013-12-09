@@ -13,3 +13,11 @@ core:src/test/data/org/bouncycastle/tsp/test/FileDaFirmare.data
 used by
 
 pkix:org.bouncycastle.tsp.test.CMSTimeStampedDataGeneratorTest
+
+
+core:src/test/data/org/bouncycastle/eac/test/Belgique CVCA-02032010.7816.cvcert
+
+used by:
+
+pkix:src/test/java/org/bouncycastle/eac/test/AllTests.java
+

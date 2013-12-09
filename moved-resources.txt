@@ -1,0 +1,15 @@
+core:src/test/data/org/bouncycastle/cms/test/PSSSignDataSHA1Enc.sig
+
+used by:
+
+pkix:
+org.bouncycastle.cms.test.SignedDataTest
+org.bouncycastle.cms.test.NewSignedDataTest
+
+
+
+core:src/test/data/org/bouncycastle/tsp/test/FileDaFirmare.data
+
+used by
+
+pkix:org.bouncycastle.tsp.test.CMSTimeStampedDataGeneratorTest

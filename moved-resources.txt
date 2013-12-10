@@ -21,3 +21,12 @@ used by:
 
 pkix:src/test/java/org/bouncycastle/eac/test/AllTests.java
 
+
+core:src/test/data/org/bouncycastle/cms/test/PSSSignDataSHA1Enc.sig
+
+used by
+pkix:org.bouncycastle.cms.test.BcSignedDataTest
+
+core:src/test/data/org/bouncycastle/eac/test/REQ_18102010.csr
+used by
+pkix:src/test/java/org/bouncycastle/eac/test/AllTests.java

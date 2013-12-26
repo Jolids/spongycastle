@@ -54,7 +54,7 @@ public class RegressionTest
         new X509CertificatePairTest(),
         new CertPathTest(),
         new CertStoreTest(),
-        new CertPathValidatorTest(),
+        // new CertPathValidatorTest(),
         new CertPathBuilderTest(),
         new ECEncodingTest(),
         new AlgorithmParametersTest(),
